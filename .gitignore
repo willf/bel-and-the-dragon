@@ -1,0 +1,5 @@
+# Microsoft Word temporary owner/lock files
+~$*.docx
+
+# LibreOffice lock files for Word documents
+.~lock.*.docx#
